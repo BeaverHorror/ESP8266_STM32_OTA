@@ -1,2 +1,2 @@
-# ESP8266_STM32_OTA
+# FirmwareOfTheMicrocontrollerByOtherMicrocontrollers
 Firmware over the air STM32 using ESP8266
